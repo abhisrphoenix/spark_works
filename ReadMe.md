@@ -1,5 +1,8 @@
 This repository contains various code snippets that I have tried out using Spark.
 
+-------------------------------------------------------------------------------------------------------------------
+SparkJsonReadnFormat
+-------------------------------------------------------------------------------------------------------------------
 1) Read Json File
 2) Data Frame Aggregate Functions
 3) Mapping RDD to case class
@@ -27,3 +30,8 @@ root
 
  Databricks URL for the notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/885351266626983/846641709339703/2071506668505937/latest.html
  
+-------------------------------------------------------------------------------------------------------------------
+WordCountAgain
+-------------------------------------------------------------------------------------------------------------------
+WordCount with Filter and Sorting 
+
