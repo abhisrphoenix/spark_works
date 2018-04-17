@@ -5,6 +5,7 @@ This repository contains various code snippets that I have tried out using Spark
 2) WordCountAgain
 3) Map_and_MapValues
 4) MoreWindowFunctions
+5) BroadcastJoin_SortMergeJoin (Refer DAG_Broadcast_SortMerge.png)
 
 -------------------------------------------------------------------------------------------------------------------
 1) SparkJsonReadnFormat
@@ -70,3 +71,12 @@ Output Data
 
 This sample handles more functions like
 Window.partitionBy, Window.orderBy, sum over partition, rank, count, filter, where , ordering ..
+
+-------------------------------------------------------------------------------------------------------------------
+5) BroadcastJoin_SortMergeJoin
+-------------------------------------------------------------------------------------------------------------------
+
+Sample to see the functioning of bucketing the table and doing join and 
+how broadcast join works.
+
+
